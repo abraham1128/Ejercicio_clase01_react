@@ -8,7 +8,7 @@ class SerVivo {
 
 }
 
-class Persona extends Servivo{
+class Persona extends SerVivo{
 
     //Constructor
     constructor(nombre) {
